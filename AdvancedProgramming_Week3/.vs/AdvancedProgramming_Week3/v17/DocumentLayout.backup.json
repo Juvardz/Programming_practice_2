@@ -1,0 +1,421 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Juvardz\\Desktop\\AdvancedProgramming_Week3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Juvardz\\Desktop\\AdvancedProgramming_Week3\\AdvancedProgramming_Week3.Repository\\Repository\\RepositoryBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AdvancedProgramming_Week3.Repository\\Repository\\RepositoryBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Juvardz\\Desktop\\AdvancedProgramming_Week3\\AdvancedProgramming_Week3\\obj\\Release\\.NETFramework,Version=v4.8.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AdvancedProgramming_Week3\\obj\\Release\\.NETFramework,Version=v4.8.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Juvardz\\Desktop\\AdvancedProgramming_Week3\\AdvancedProgramming_Week3\\Services\\ProductService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AdvancedProgramming_Week3\\Services\\ProductService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Juvardz\\Desktop\\AdvancedProgramming_Week3\\AdvancedProgramming_Week3\\Services\\CustomerService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AdvancedProgramming_Week3\\Services\\CustomerService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Juvardz\\Desktop\\AdvancedProgramming_Week3\\AdvancedProgramming_Week3\\Controllers\\ProductController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AdvancedProgramming_Week3\\Controllers\\ProductController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Juvardz\\Desktop\\AdvancedProgramming_Week3\\AdvancedProgramming_Week3.Repository\\Models\\IEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AdvancedProgramming_Week3.Repository\\Models\\IEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Juvardz\\Desktop\\AdvancedProgramming_Week3\\AdvancedProgramming_Week3\\Views\\Product\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AdvancedProgramming_Week3\\Views\\Product\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Juvardz\\Desktop\\AdvancedProgramming_Week3\\AdvancedProgramming_Week3.Repository\\Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AdvancedProgramming_Week3.Repository\\Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Juvardz\\Desktop\\AdvancedProgramming_Week3\\AdvancedProgramming_Week3\\Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AdvancedProgramming_Week3\\Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Juvardz\\Desktop\\AdvancedProgramming_Week3\\AdvancedProgramming_Week3\\Services\\SupplierService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AdvancedProgramming_Week3\\Services\\SupplierService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Juvardz\\Desktop\\AdvancedProgramming_Week3\\AdvancedProgramming_Week3.Repository\\Repository\\CategoriesRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AdvancedProgramming_Week3.Repository\\Repository\\CategoriesRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Juvardz\\Desktop\\AdvancedProgramming_Week3\\AdvancedProgramming_Week3.Repository\\Repository\\CustomerRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AdvancedProgramming_Week3.Repository\\Repository\\CustomerRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Juvardz\\Desktop\\AdvancedProgramming_Week3\\AdvancedProgramming_Week3.Repository\\Models\\Suppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AdvancedProgramming_Week3.Repository\\Models\\Suppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Juvardz\\Desktop\\AdvancedProgramming_Week3\\AdvancedProgramming_Week3.Repository\\Models\\Products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AdvancedProgramming_Week3.Repository\\Models\\Products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Juvardz\\Desktop\\AdvancedProgramming_Week3\\AdvancedProgramming_Week3.Repository\\Repository\\ProductsRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AdvancedProgramming_Week3.Repository\\Repository\\ProductsRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Juvardz\\Desktop\\AdvancedProgramming_Week3\\AdvancedProgramming_Week3.Repository\\Models\\Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AdvancedProgramming_Week3.Repository\\Models\\Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Juvardz\\Desktop\\AdvancedProgramming_Week3\\AdvancedProgramming_Week3.Repository\\Models\\Categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AdvancedProgramming_Week3.Repository\\Models\\Categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Juvardz\\Desktop\\AdvancedProgramming_Week3\\AdvancedProgramming_Week3.Repository\\Categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AdvancedProgramming_Week3.Repository\\Categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Juvardz\\Desktop\\AdvancedProgramming_Week3\\AdvancedProgramming_Week3.Repository\\Repository\\SuppliersRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AdvancedProgramming_Week3.Repository\\Repository\\SuppliersRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 29,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:21:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:22:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:23:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:24:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:25:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:26:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:27:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:28:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".NETFramework,Version=v4.8.AssemblyAttributes.cs",
+              "DocumentMoniker": "C:\\Users\\Juvardz\\Desktop\\AdvancedProgramming_Week3\\AdvancedProgramming_Week3\\obj\\Release\\.NETFramework,Version=v4.8.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "AdvancedProgramming_Week3\\obj\\Release\\.NETFramework,Version=v4.8.AssemblyAttributes.cs",
+              "ToolTip": "C:\\Users\\Juvardz\\Desktop\\AdvancedProgramming_Week3\\AdvancedProgramming_Week3\\obj\\Release\\.NETFramework,Version=v4.8.AssemblyAttributes.cs",
+              "RelativeToolTip": "AdvancedProgramming_Week3\\obj\\Release\\.NETFramework,Version=v4.8.AssemblyAttributes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T02:48:11.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Juvardz\\Desktop\\AdvancedProgramming_Week3\\AdvancedProgramming_Week3\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "AdvancedProgramming_Week3\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Juvardz\\Desktop\\AdvancedProgramming_Week3\\AdvancedProgramming_Week3\\Services\\ProductService.cs",
+              "RelativeToolTip": "AdvancedProgramming_Week3\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T02:47:45.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\Juvardz\\Desktop\\AdvancedProgramming_Week3\\AdvancedProgramming_Week3\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "AdvancedProgramming_Week3\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\Juvardz\\Desktop\\AdvancedProgramming_Week3\\AdvancedProgramming_Week3\\Services\\CustomerService.cs",
+              "RelativeToolTip": "AdvancedProgramming_Week3\\Services\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T02:39:19.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Juvardz\\Desktop\\AdvancedProgramming_Week3\\AdvancedProgramming_Week3\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "AdvancedProgramming_Week3\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Juvardz\\Desktop\\AdvancedProgramming_Week3\\AdvancedProgramming_Week3\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "AdvancedProgramming_Week3\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T02:32:58.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Juvardz\\Desktop\\AdvancedProgramming_Week3\\AdvancedProgramming_Week3.Repository\\Models\\IEntity.cs",
+              "RelativeDocumentMoniker": "AdvancedProgramming_Week3.Repository\\Models\\IEntity.cs",
+              "ToolTip": "C:\\Users\\Juvardz\\Desktop\\AdvancedProgramming_Week3\\AdvancedProgramming_Week3.Repository\\Models\\IEntity.cs",
+              "RelativeToolTip": "AdvancedProgramming_Week3.Repository\\Models\\IEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T01:14:53.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\Juvardz\\Desktop\\AdvancedProgramming_Week3\\AdvancedProgramming_Week3.Repository\\Repository\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "AdvancedProgramming_Week3.Repository\\Repository\\RepositoryBase.cs",
+              "ToolTip": "C:\\Users\\Juvardz\\Desktop\\AdvancedProgramming_Week3\\AdvancedProgramming_Week3.Repository\\Repository\\RepositoryBase.cs",
+              "RelativeToolTip": "AdvancedProgramming_Week3.Repository\\Repository\\RepositoryBase.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAArwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T01:02:38.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Juvardz\\Desktop\\AdvancedProgramming_Week3\\AdvancedProgramming_Week3\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "AdvancedProgramming_Week3\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Juvardz\\Desktop\\AdvancedProgramming_Week3\\AdvancedProgramming_Week3\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "AdvancedProgramming_Week3\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T02:35:48.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Juvardz\\Desktop\\AdvancedProgramming_Week3\\AdvancedProgramming_Week3.Repository\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AdvancedProgramming_Week3.Repository\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Juvardz\\Desktop\\AdvancedProgramming_Week3\\AdvancedProgramming_Week3.Repository\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "AdvancedProgramming_Week3.Repository\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T02:58:35.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Juvardz\\Desktop\\AdvancedProgramming_Week3\\AdvancedProgramming_Week3\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AdvancedProgramming_Week3\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Juvardz\\Desktop\\AdvancedProgramming_Week3\\AdvancedProgramming_Week3\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "AdvancedProgramming_Week3\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T02:58:46.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SupplierService.cs",
+              "DocumentMoniker": "C:\\Users\\Juvardz\\Desktop\\AdvancedProgramming_Week3\\AdvancedProgramming_Week3\\Services\\SupplierService.cs",
+              "RelativeDocumentMoniker": "AdvancedProgramming_Week3\\Services\\SupplierService.cs",
+              "ToolTip": "C:\\Users\\Juvardz\\Desktop\\AdvancedProgramming_Week3\\AdvancedProgramming_Week3\\Services\\SupplierService.cs",
+              "RelativeToolTip": "AdvancedProgramming_Week3\\Services\\SupplierService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T02:38:44.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoriesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Juvardz\\Desktop\\AdvancedProgramming_Week3\\AdvancedProgramming_Week3.Repository\\Repository\\CategoriesRepository.cs",
+              "RelativeDocumentMoniker": "AdvancedProgramming_Week3.Repository\\Repository\\CategoriesRepository.cs",
+              "ToolTip": "C:\\Users\\Juvardz\\Desktop\\AdvancedProgramming_Week3\\AdvancedProgramming_Week3.Repository\\Repository\\CategoriesRepository.cs",
+              "RelativeToolTip": "AdvancedProgramming_Week3.Repository\\Repository\\CategoriesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T01:42:10.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Juvardz\\Desktop\\AdvancedProgramming_Week3\\AdvancedProgramming_Week3.Repository\\Repository\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "AdvancedProgramming_Week3.Repository\\Repository\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\Juvardz\\Desktop\\AdvancedProgramming_Week3\\AdvancedProgramming_Week3.Repository\\Repository\\CustomerRepository.cs",
+              "RelativeToolTip": "AdvancedProgramming_Week3.Repository\\Repository\\CustomerRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T02:33:13.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Suppliers.cs",
+              "DocumentMoniker": "C:\\Users\\Juvardz\\Desktop\\AdvancedProgramming_Week3\\AdvancedProgramming_Week3.Repository\\Models\\Suppliers.cs",
+              "RelativeDocumentMoniker": "AdvancedProgramming_Week3.Repository\\Models\\Suppliers.cs",
+              "ToolTip": "C:\\Users\\Juvardz\\Desktop\\AdvancedProgramming_Week3\\AdvancedProgramming_Week3.Repository\\Models\\Suppliers.cs",
+              "RelativeToolTip": "AdvancedProgramming_Week3.Repository\\Models\\Suppliers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T01:05:06.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\Juvardz\\Desktop\\AdvancedProgramming_Week3\\AdvancedProgramming_Week3.Repository\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "AdvancedProgramming_Week3.Repository\\Models\\Products.cs",
+              "ToolTip": "C:\\Users\\Juvardz\\Desktop\\AdvancedProgramming_Week3\\AdvancedProgramming_Week3.Repository\\Models\\Products.cs",
+              "RelativeToolTip": "AdvancedProgramming_Week3.Repository\\Models\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T01:04:35.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Juvardz\\Desktop\\AdvancedProgramming_Week3\\AdvancedProgramming_Week3.Repository\\Repository\\ProductsRepository.cs",
+              "RelativeDocumentMoniker": "AdvancedProgramming_Week3.Repository\\Repository\\ProductsRepository.cs",
+              "ToolTip": "C:\\Users\\Juvardz\\Desktop\\AdvancedProgramming_Week3\\AdvancedProgramming_Week3.Repository\\Repository\\ProductsRepository.cs",
+              "RelativeToolTip": "AdvancedProgramming_Week3.Repository\\Repository\\ProductsRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T02:30:31.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Juvardz\\Desktop\\AdvancedProgramming_Week3\\AdvancedProgramming_Week3.Repository\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "AdvancedProgramming_Week3.Repository\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Juvardz\\Desktop\\AdvancedProgramming_Week3\\AdvancedProgramming_Week3.Repository\\Models\\Customer.cs",
+              "RelativeToolTip": "AdvancedProgramming_Week3.Repository\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T01:05:14.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Categories.cs",
+              "DocumentMoniker": "C:\\Users\\Juvardz\\Desktop\\AdvancedProgramming_Week3\\AdvancedProgramming_Week3.Repository\\Models\\Categories.cs",
+              "RelativeDocumentMoniker": "AdvancedProgramming_Week3.Repository\\Models\\Categories.cs",
+              "ToolTip": "C:\\Users\\Juvardz\\Desktop\\AdvancedProgramming_Week3\\AdvancedProgramming_Week3.Repository\\Models\\Categories.cs",
+              "RelativeToolTip": "AdvancedProgramming_Week3.Repository\\Models\\Categories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T01:04:02.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Categories.cs",
+              "DocumentMoniker": "C:\\Users\\Juvardz\\Desktop\\AdvancedProgramming_Week3\\AdvancedProgramming_Week3.Repository\\Categories.cs",
+              "RelativeDocumentMoniker": "AdvancedProgramming_Week3.Repository\\Categories.cs",
+              "ToolTip": "C:\\Users\\Juvardz\\Desktop\\AdvancedProgramming_Week3\\AdvancedProgramming_Week3.Repository\\Categories.cs",
+              "RelativeToolTip": "AdvancedProgramming_Week3.Repository\\Categories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T01:11:13.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SuppliersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Juvardz\\Desktop\\AdvancedProgramming_Week3\\AdvancedProgramming_Week3.Repository\\Repository\\SuppliersRepository.cs",
+              "RelativeDocumentMoniker": "AdvancedProgramming_Week3.Repository\\Repository\\SuppliersRepository.cs",
+              "ToolTip": "C:\\Users\\Juvardz\\Desktop\\AdvancedProgramming_Week3\\AdvancedProgramming_Week3.Repository\\Repository\\SuppliersRepository.cs",
+              "RelativeToolTip": "AdvancedProgramming_Week3.Repository\\Repository\\SuppliersRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T02:32:02.06Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
